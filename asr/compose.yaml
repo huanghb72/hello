@@ -1,0 +1,5 @@
+services:
+  api:
+    image: asr-api
+    ports:
+      - "8001:8001"
